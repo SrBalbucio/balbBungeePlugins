@@ -1,0 +1,6 @@
+prefix: "§b[BPLUGINS]"
+defaultmessage: "{prefix} §aPlugins: {plugins}"
+pluginhover: "§7Autor: §f{author}\n§7Descrição: §f{description}\n§7Versão:§f {version}\n§7File: §f{file}\n§7Status: §7{status}"
+statusativo: "§aAtivado" #Plugin ativo
+statusdesativo: "§aDesativado" #Plugin desativo
+notfound: "§cOps... Esse comando não foi encontrado!\n§cUse /bungeeplugins help para saber todos comandos."

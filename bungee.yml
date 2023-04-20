@@ -1,0 +1,5 @@
+name: balbBungeePlugins
+author: Balbucio
+version: 1.1
+main: me.balbucio.plugins.Main
+description: Use para ver os Plugins do Bungeecord.
